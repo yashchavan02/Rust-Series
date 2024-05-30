@@ -1,13 +1,14 @@
 use std::io;
 fn main() {
-    print!("Enter what you want:");
+    println!("Enter what you want:");
     let mut input =String::new();
         io::stdin()
         .read_line(& mut input)
         .expect("Fail");
 
-  let x: &str =input.trim();
-    println!("{}",x);
+//     let x: &str =input.trim();
+//     println!("{}",x);
+
     println!("You enter : {}", input.trim());
 }
 
