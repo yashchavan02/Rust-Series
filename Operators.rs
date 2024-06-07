@@ -17,6 +17,14 @@ fn main() {
       println!("{}",2>=2 || 1!=1);
       println!("{}",!(1==2));
 
+
+      println!("{}", 0b1010 & 0b1100); 
+      println!("{}", 0b1010 | 0b1100);     
+      println!("{}", 0b1010 ^ 0b1100);
+      println!("{}", !0b1010);
+      println!("{}", 0b1010 << 2);
+      println!("{}", 0b1010 >> 2); 
+    
       
       let mut number :i32 = 20;
       number+=5;
@@ -29,9 +37,7 @@ fn main() {
       println!("{}",number);
     
       
-    }
-
-
+}
 
 
 
@@ -56,7 +62,14 @@ fn main() {
 - println!("{}",1==1 && 2==2); --> Prints true as both conditions are true.
 - println!("{}",2>=2 || 1!=1); --> Prints true as at least one condition is true.
 - println!("{}",!(1==2)); --> Prints true as the negation of 1==2 is false.
-4.Compound Operators:
+4.Bitwise Operators:
+- println!("{}", 0b1010 & 0b1100); --> Prints the result of the bitwise AND operation (1010 AND 1100 = 1000).
+- println!("{}", 0b1010 | 0b1100); --> Prints the result of the bitwise OR operation (1010 OR 1100 = 1110).
+- println!("{}", 0b1010 ^ 0b1100); --> Prints the result of the bitwise XOR operation (1010 XOR 1100 = 0110).
+- println!("{}",!0b1010); --> Prints the result of the bitwise NOT operation (NOT 1010 = 0101).
+- println!("{}", 0b1010 << 2); --> Prints the result of the left shift operation (1010 shifted left by 2 bits = 101000).
+- println!("{}", 0b1010 >> 2); --> Prints the result of the right shift operation (1010 shifted right by 2 bits = 101).
+5.Compound Operators:
 - let mut number :i32 = 20; --> Declares a mutable integer variable number and assigns it the value 20.
 - number+=5; --> Adds 5 to the value of number (20 + 5 = 25).
 - println!("{}",number); --> Prints the updated value of number (25).
