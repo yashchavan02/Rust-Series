@@ -2,31 +2,31 @@
 
 ### Step Wise Learn !
 
-- HelloWord.rs
-- AssertKeyWord.rs
-- MutableVar.rs
-- VarScope.rs
-- ShadowingVar.rs
-- Operators.rs
-- IntMaxSize.rs
-- SizeOfDataType.rs
-- ConditionalApproach.rs
-- Loops.rs
-- ForLoop.rs
-- WhileLoop.rs
-- IterFunc.rs
-- BreakContinue.rs
-- String.rs
-- StringSlice.rs
-- TypeCasting.rs
-- MatchKeyword.rs
-- FunctionCall.rs
-- EscapeCharacter.rs
-- UserInput.rs
-- InputArray.rs
-- 2Darray.rs
-- Structure.rs
-- Tuple.rs
-- StaticVector.rs
-- CharVec.rs
-- DynamicVec.rs
+- [x] HelloWord.rs
+- [x] AssertKeyWord.rs
+- [x] MutableVar.rs
+- [x] VarScope.rs
+- [x] ShadowingVar.rs
+- [x] Operators.rs
+- [x] IntMaxSize.rs
+- [x] SizeOfDataType.rs
+- [x] ConditionalApproach.rs
+- [x] Loops.rs
+- [x] ForLoop.rs
+- [x] WhileLoop.rs
+- [x] IterFunc.rs
+- [x] BreakContinue.rs
+- [x] String.rs
+- [x] StringSlice.rs
+- [x] TypeCasting.rs
+- [x] MatchKeyword.rs
+- [x] FunctionCall.rs
+- [x] EscapeCharacter.rs
+- [x] UserInput.rs
+- [x] InputArray.rs
+- [x] 2Darray.rs
+- [x] Structure.rs
+- [x] Tuple.rs
+- [x] StaticVector.rs
+- [x] CharVec.rs
+- [x] DynamicVec.rs
