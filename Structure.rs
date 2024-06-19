@@ -44,10 +44,10 @@ fn main() {
     let student_names = vec!["1", "2","3"];
     let mut students = Vec::new();
 
-    for content in student_names.iter() {
-        let name = read_input(&format!("{}. What is your name ? ", content));
-        let id = read_int32(&format!("{}. What is your id ? ", content));
-        let sgpa = read_float32(&format!("{}. What is your sgpa ? ", content));
+    for sr in student_names.iter() {
+        let name = read_input(&format!("{}. What is your name ? ", sr));
+        let id = read_int32(&format!("{}. What is your id ? ", sr));
+        let sgpa = read_float32(&format!("{}. What is your sgpa ? ", sr));
         print!("\n");
         students.push(Student { name, id, sgpa });
         
