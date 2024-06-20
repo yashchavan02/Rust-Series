@@ -5,6 +5,7 @@
 - [x] HelloWord.rs
 - [x] AssertKeyWord.rs
 - [x] MutableVar.rs
+- [x] ConstVar.rs
 - [x] VarScope.rs
 - [x] ShadowingVar.rs
 - [x] Operators.rs
