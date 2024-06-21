@@ -12,6 +12,7 @@
 - [x] IntMaxSize.rs
 - [x] SizeOfDataType.rs
 - [x] ConditionalApproach.rs
+- [x] LetIf.rs
 - [x] Loops.rs
 - [x] ForLoop.rs
 - [x] WhileLoop.rs
