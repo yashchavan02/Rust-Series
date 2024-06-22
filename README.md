@@ -7,6 +7,7 @@
 - [x] MutableVar.rs
 - [x] ConstVar.rs
 - [x] VarScope.rs
+- [x] Ownership.rs
 - [x] ShadowingVar.rs
 - [x] Operators.rs
 - [x] IntMaxSize.rs
