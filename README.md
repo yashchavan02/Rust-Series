@@ -14,6 +14,7 @@
 - [x] SizeOfDataType.rs
 - [x] ConditionalApproach.rs
 - [x] LetIf.rs
+- [x] IfLet.rs
 - [x] Loops.rs
 - [x] ForLoop.rs
 - [x] WhileLoop.rs
