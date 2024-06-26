@@ -31,6 +31,7 @@
 - [x] 2Darray.rs
 - [x] Structure.rs
 - [x] Tuple.rs
+- [x] Enum.rs
 - [x] OptionEnum.rs
 - [x] StaticVector.rs
 - [x] CharVec.rs
