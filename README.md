@@ -33,6 +33,7 @@
 - [x] Tuple.rs
 - [x] Enum.rs
 - [x] OptionEnum.rs
+- [x] OptionWithMatch.rs
 - [x] StaticVector.rs
 - [x] CharVec.rs
 - [x] DynamicVec.rs
