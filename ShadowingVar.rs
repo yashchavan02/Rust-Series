@@ -1,12 +1,12 @@
 fn main() {
   let x: i32 = 5;
   {
-    let x: i32 = 10;
-   println!("the value of VarScope is {}", x);
+    let x = x + 5;
+    println!("the value of x after shadowing is {}",x);
   }
-  println!("the value of x original {}",x);
-  let x: i32 = 45;
-  print!("the value of x after shadowing {}",x);
+  println!("the original value of x is {}",x);
+  let x = x * 9;
+  print!("the value of x after shadowing is {}",x);
 }
 
 
