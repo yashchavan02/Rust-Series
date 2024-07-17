@@ -21,6 +21,7 @@
 - [x] IterFunc.rs
 - [x] BreakContinue.rs
 - [x] String.rs
+- [x] StringMethods.rs
 - [x] StringSlice.rs
 - [x] TypeCasting.rs
 - [x] MatchKeyword.rs
