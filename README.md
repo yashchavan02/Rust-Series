@@ -28,6 +28,7 @@
 - [x] FunctionCall.rs
 - [x] EscapeCharacter.rs
 - [x] UserInput.rs
+- [x] Array.rs
 - [x] InputArray.rs
 - [x] 2Darray.rs
 - [x] Structure.rs
